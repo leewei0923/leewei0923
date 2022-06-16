@@ -1,7 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Wei Lee
 
 [![](https://img.shields.io/badge/Github-leewei0923-brightgreen?&logo=github)](https://github.com/leewei0923)
-[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-https%3A%2F%2Fgithub.com%2Fleewei0923-brightgreen)](https://ChelesteWang.github.io/)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-xiaoyu-brightgreen)](https://doc.icenew.top/)
 
 
